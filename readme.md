@@ -16,6 +16,7 @@ cd Accredian-backend-task
 ```
  
 ### **ENV Variables**
+Make a .env file in the root directory. 
 Add your SQL database username, password and database name to it. With that add your Email and Password.
 ```
 DATABASE_URL=mysql://USER:PASSWORD@HOST:PORT/DATABASE
